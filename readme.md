@@ -16,7 +16,7 @@ $ flask --app main run
  ```
 
 ## Explanation
-[title](https://documenter.getpostman.com/view/32141486/2s9YsGhsqV)
+[Documentation](https://documenter.getpostman.com/view/32141486/2s9YsGhsqV)
 
 ## Why I made this
 My main goal was to practice the following Python concepts:
@@ -24,6 +24,7 @@ My main goal was to practice the following Python concepts:
 - Learning RESTful API
 - Routing
 - POST, PATCH & GET methods
+- Using Postman and its documentation possibility
 
 ## License
 MIT License
